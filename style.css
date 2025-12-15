@@ -1,0 +1,90 @@
+body{
+    background-image: linear-gradient(  to top left, rgb(33, 4, 87) , rgb(101, 6, 116),rgb(228, 13, 167));
+background-repeat: no-repeat;
+height: 900px;
+overflow:hidden ;
+}
+.container{
+color: white;
+margin-top: 50px;
+margin-left: 50px;
+margin-right: 70px;
+}
+
+.logo{
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+ul{
+  display: flex;
+  color: white;
+  list-style: none;
+  font-size: 25px;
+
+
+
+}
+li{
+
+margin-left: 120px;
+  margin-top: -78px;
+
+
+}
+div{
+    text-align: right;
+}
+
+.main{
+    font-family:Roboto;
+    font-size: 60px;
+    letter-spacing: 35px;
+}
+#studio{
+    font-size: 80px;
+    font-family: Alumni Sans Pinstripe;
+    letter-spacing: 35px;
+}
+hr{
+    width: 400px;
+    margin-right: -15px;
+    height: 4px;
+    background-color: white;
+}
+
+ #image{
+margin-right: 3000px;
+    margin-top: -380px;
+    height: 480px;
+    width: 100px;
+ }
+#get{
+    background-color: #750d7c;
+  padding: 18px 30px 18px 30px;
+  color: white;
+  font-size: 18px;
+  border: none;
+
+  margin-right: 20px
+}
+#text{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -50px;
+}
+#sign{
+    margin-left: 490px;
+    margin-bottom: 18px;
+}
+button{
+    background-color: white;
+  padding: 11px 20px 11px 20px;
+  color: plum;
+  font-size: 18px;
+  border: none;
+  border-radius: 2px;
+
+}
